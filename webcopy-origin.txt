@@ -1,0 +1,840 @@
+Uri: https://images.prismic.io/stiff/aG1YbkMqNJQqHsCA_BTS_TOILETS.HEIC?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aG1YbkMqNJQqHsCA_BTS_TOILETS.HEIC
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aG1YTkMqNJQqHsBi_BTS_ADCOUNCIL.HEIC?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aG1YTkMqNJQqHsBi_BTS_ADCOUNCIL.HEIC
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aG1YU0MqNJQqHsBq_BTS_ENTERPRISE3.JPG?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aG1YU0MqNJQqHsBq_BTS_ENTERPRISE3.JPG
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aG1YW0MqNJQqHsBy_BTS_NJL_PowerX.HEIC?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aG1YW0MqNJQqHsBy_BTS_NJL_PowerX.HEIC
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aG1YXEMqNJQqHsBz_BTS_OCMD.HEIC?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aG1YXEMqNJQqHsBz_BTS_OCMD.HEIC
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aG1YXkMqNJQqHsB1_BTS_RTP.HEIC?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aG1YXkMqNJQqHsB1_BTS_RTP.HEIC
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aG1YY0MqNJQqHsB8_BTS_TAXI.JPG?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aG1YY0MqNJQqHsB8_BTS_TAXI.JPG
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aG53o0MqNJQqHuWL_logo-expedia.png?auto=format,compress
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aG53o0MqNJQqHuWL_logo-expedia.png
+Content Type: image/png
+
+Uri: https://images.prismic.io/stiff/aG53okMqNJQqHuWK_logo-car-rental.png?auto=format,compress
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aG53okMqNJQqHuWK_logo-car-rental.png
+Content Type: image/png
+
+Uri: https://images.prismic.io/stiff/aG53p0MqNJQqHuWP_test-logo.png?auto=format,compress
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aG53p0MqNJQqHuWP_test-logo.png
+Content Type: image/png
+
+Uri: https://images.prismic.io/stiff/aG53pEMqNJQqHuWM_logo-heluva-good.png?auto=format,compress
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aG53pEMqNJQqHuWM_logo-heluva-good.png
+Content Type: image/png
+
+Uri: https://images.prismic.io/stiff/aG53pkMqNJQqHuWO_logo-remax.png?auto=format,compress
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aG53pkMqNJQqHuWO_logo-remax.png
+Content Type: image/png
+
+Uri: https://images.prismic.io/stiff/aG53qEMqNJQqHuWQ_test-logo-2.png?auto=format,compress
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aG53qEMqNJQqHuWQ_test-logo-2.png
+Content Type: image/png
+
+Uri: https://images.prismic.io/stiff/aG53qkMqNJQqHuWS_who-image-2x.jpg?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aG53qkMqNJQqHuWS_who-image-2x.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aG53qUMqNJQqHuWR_test-logo-3.png?auto=format,compress
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aG53qUMqNJQqHuWR_test-logo-3.png
+Content Type: image/png
+
+Uri: https://images.prismic.io/stiff/aGPyP3fc4bHWi7BI_team-img-1-2x.jpg?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aGPyP3fc4bHWi7BI_team-img-1-2x.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aGPyS3fc4bHWi7BK_team-img-2-2x.jpg?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aGPyS3fc4bHWi7BK_team-img-2-2x.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aGPyTHfc4bHWi7BL_team-img-3-2x.jpg?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aGPyTHfc4bHWi7BL_team-img-3-2x.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aGQ61Hfc4bHWi7mF_2.jpg?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aGQ61Hfc4bHWi7mF_2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aGQaE3fc4bHWi7d1_1.jpg?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aGQaE3fc4bHWi7d1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aGQaE3fc4bHWi7d2_2.jpg?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aGQaE3fc4bHWi7d2_2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aGQaFHfc4bHWi7d3_3.jpg?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aGQaFHfc4bHWi7d3_3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aGQaFnfc4bHWi7d5_5.jpg?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aGQaFnfc4bHWi7d5_5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aGQaFXfc4bHWi7d4_4.jpg?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aGQaFXfc4bHWi7d4_4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aGQbxHfc4bHWi7eP_6.jpg?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aGQbxHfc4bHWi7eP_6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aG_C0kMqNJQqHwZY_NEWS_NOOBS.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aG_C0kMqNJQqHwZY_NEWS_NOOBS.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aG_S10MqNJQqHwn-_NEWS_Greenball.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aG_S10MqNJQqHwn-_NEWS_Greenball.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHa-80MqNJQqH8HD_AVIDX_GOAT_IMPOSSIBEL_COVER.png?auto=format%2Ccompress&rect=456%2C0%2C2663%2C1494&w=3576&h=2006&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHa-80MqNJQqH8HD_AVIDX_GOAT_IMPOSSIBEL_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHa-9EMqNJQqH8HE_AVIDX_KERFUFFLE_COVER.png?auto=format%2Ccompress&rect=457%2C0%2C2665%2C1494&w=3578&h=2006&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHa-9EMqNJQqH8HE_AVIDX_KERFUFFLE_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHaDdkMqNJQqH7jq_AVIDX_NIGHT_COVER001.png?auto=format%2Ccompress&rect=462%2C0%2C2653%2C1488&w=3576&h=2006&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaDdkMqNJQqH7jq_AVIDX_NIGHT_COVER001.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHaHLUMqNJQqH7lW_NATIONAL_INTRO_COVER_001.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaHLUMqNJQqH7lW_NATIONAL_INTRO_COVER_001.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHaHMUMqNJQqH7la_NATIONAL_STACHE_COVER_003.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaHMUMqNJQqH7la_NATIONAL_STACHE_COVER_003.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHaHNUMqNJQqH7le_NATIONAL_REMOTE_COVER_001.png?auto=format%2Ccompress&rect=117%2C0%2C1271%2C802&w=1430&h=902&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaHNUMqNJQqH7le_NATIONAL_REMOTE_COVER_001.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHaHNUMqNJQqH7le_NATIONAL_REMOTE_COVER_001.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaHNUMqNJQqH7le_NATIONAL_REMOTE_COVER_001-1.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHaKDkMqNJQqH7ry_FIREHOUSE_FANNY_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaKDkMqNJQqH7ry_FIREHOUSE_FANNY_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHaKDUMqNJQqH7rw_FIREHOUSE_BELLS_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaKDUMqNJQqH7rw_FIREHOUSE_BELLS_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHaKE0MqNJQqH7r3_FIREHOUSE_NEEDS_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaKE0MqNJQqH7r3_FIREHOUSE_NEEDS_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHaKEEMqNJQqH7r0_FIREHOUSE_HAIRCUT_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaKEEMqNJQqH7r0_FIREHOUSE_HAIRCUT_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHaKEUMqNJQqH7r1_FIREHOUSE_INNOVATION_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaKEUMqNJQqH7r1_FIREHOUSE_INNOVATION_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHaKF0MqNJQqH7r8_FIREHOUSE_SWEATER_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaKF0MqNJQqH7r8_FIREHOUSE_SWEATER_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHaKFUMqNJQqH7r6_FIREHOUSE_READY_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaKFUMqNJQqH7r6_FIREHOUSE_READY_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHaNfkMqNJQqH70d_HELUVA_GOOD_CAMPING_COVER_004.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaNfkMqNJQqH70d_HELUVA_GOOD_CAMPING_COVER_004.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHaNk0MqNJQqH702_HELUVA_GOOD_PICNIC_COVER_003.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaNk0MqNJQqH702_HELUVA_GOOD_PICNIC_COVER_003.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHaNmUMqNJQqH709_HELUVA_GOOD_POOL_COVER_001.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaNmUMqNJQqH709_HELUVA_GOOD_POOL_COVER_001.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHaNoEMqNJQqH71E_HELUVA_GOOD_SLEEP_WALKING_COVER_001.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaNoEMqNJQqH71E_HELUVA_GOOD_SLEEP_WALKING_COVER_001.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHbA30MqNJQqH8IL_COX_SERVICE-CALL_15_COVER_001.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHbA30MqNJQqH8IL_COX_SERVICE-CALL_15_COVER_001.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHbA4UMqNJQqH8IN_COX_STORM_30_COVER_002.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHbA4UMqNJQqH8IN_COX_STORM_30_COVER_002.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHd6UUMqNJQqH9QZ_ENTERPRISE_BOLDLY30_COVER.png?auto=format%2Ccompress&rect=273%2C0%2C1076%2C1076&w=1376&h=1376&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHd6UUMqNJQqH9QZ_ENTERPRISE_BOLDLY30_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHe300MqNJQqH-MO_RTP_SOCCER_COVER_001.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHe300MqNJQqH-MO_RTP_SOCCER_COVER_001.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHe31kMqNJQqH-MS_RTP_ALGEGBRA_COVER002.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHe31kMqNJQqH-MS_RTP_ALGEGBRA_COVER002.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHe3z0MqNJQqH-MM_RTP_PLANNER_COVER001.png?auto=format%2Ccompress&rect=361%2C279%2C2978%2C1668&w=3574&h=2002&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHe3z0MqNJQqH-MM_RTP_PLANNER_COVER001-1.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHe3z0MqNJQqH-MM_RTP_PLANNER_COVER001.png?auto=format%2Ccompress&rect=506%2C321%2C2734%2C1540&w=3582&h=2018&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHe3z0MqNJQqH-MM_RTP_PLANNER_COVER001.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHeB40MqNJQqH9WA_TIXREFORM_WANT-COVER003.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHeB40MqNJQqH9WA_TIXREFORM_WANT-COVER003.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHeB6UMqNJQqH9WD_TIXS_JAM_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHeB6UMqNJQqH9WD_TIXS_JAM_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHfVW0MqNJQqH-is_IDEAKILLERS_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHfVW0MqNJQqH-is_IDEAKILLERS_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHfXgUMqNJQqH-jT_SocMed_106.png?auto=format%2Ccompress&rect=742%2C0%2C1063%2C1063&w=1376&h=1376&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHfXgUMqNJQqH-jT_SocMed_106.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHkqH0MqNJQqIEX-_LOTTERY_CO_COVER002.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHkqH0MqNJQqIEX-_LOTTERY_CO_COVER002.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHkqRUMqNJQqIEYc_LOTTERY_CO_COVER001.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHkqRUMqNJQqIEYc_LOTTERY_CO_COVER001.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHkqS0MqNJQqIEYh_LOTTERY_DC_COVER002.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHkqS0MqNJQqIEYh_LOTTERY_DC_COVER002.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHkqT0MqNJQqIEYk_LOTTERY_NC_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHkqT0MqNJQqIEYk_LOTTERY_NC_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHkqTkMqNJQqIEYj_LOTTERY_DC_TT_COVER001.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHkqTkMqNJQqIEYj_LOTTERY_DC_TT_COVER001.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHkqVUMqNJQqIEYs_LOTTERY_PA_TT_COVER001.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHkqVUMqNJQqIEYs_LOTTERY_PA_TT_COVER001.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHkqWEMqNJQqIEYx_LOTTERY_PA_TT_COVER005.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHkqWEMqNJQqIEYx_LOTTERY_PA_TT_COVER005.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHkqWkMqNJQqIEYz_LOTTERY_WI_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHkqWkMqNJQqIEYz_LOTTERY_WI_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHkrBEMqNJQqIEaT_LOTTERY_PA_TT_COVER001.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHkrBEMqNJQqIEaT_LOTTERY_PA_TT_COVER001.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHpcGkMqNJQqIGs5_COX_HARDATWORK_COVER.jpg?auto=format%2Ccompress&rect=326%2C182%2C1267%2C715&w=3562&h=2010&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHpcGkMqNJQqIGs5_COX_HARDATWORK_COVER-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHpcGkMqNJQqIGs5_COX_HARDATWORK_COVER.jpg?auto=format%2Ccompress&rect=327%2C189%2C1253%2C707&w=3562&h=2010&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHpcGkMqNJQqIGs5_COX_HARDATWORK_COVER.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHVdCEMqNJQqH4zZ_NJL_GREENBALL_IGTWIST_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHVdCEMqNJQqH4zZ_NJL_GREENBALL_IGTWIST_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHVdCkMqNJQqH4ze_NJL_GREENBALL_IGDUET_COVER.png?auto=format%2Ccompress&rect=1%2C0%2C1230%2C2178&w=1230&h=2178&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHVdCkMqNJQqH4ze_NJL_GREENBALL_IGDUET_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHVdFUMqNJQqH4zx_NJL_GREENBALL_PEAK_COVER002.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHVdFUMqNJQqH4zx_NJL_GREENBALL_PEAK_COVER002.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHVdGEMqNJQqH4z4_NJL_GREENBALL_RETIRE_COVER004.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHVdGEMqNJQqH4z4_NJL_GREENBALL_RETIRE_COVER004.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHViIkMqNJQqH5Bg_RE_MAX_NAMINGTT_AMBIENTT_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHViIkMqNJQqH5Bg_RE_MAX_NAMINGTT_AMBIENTT_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHViJEMqNJQqH5Bj_RE_MAX_DABBLIN_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHViJEMqNJQqH5Bj_RE_MAX_DABBLIN_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHViKkMqNJQqH5Bt_RE_MAX_ASTROLOGYTT_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHViKkMqNJQqH5Bt_RE_MAX_ASTROLOGYTT_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHViMEMqNJQqH5B3_RE_MAX_INSPECTIONTT_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHViMEMqNJQqH5B3_RE_MAX_INSPECTIONTT_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHViNUMqNJQqH5B9_RE_MAX_PART_COVER002.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHViNUMqNJQqH5B9_RE_MAX_PART_COVER002.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHViOkMqNJQqH5CE_RE_MAX_INSPECT_COVER002.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHViOkMqNJQqH5CE_RE_MAX_INSPECT_COVER002.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHViPkMqNJQqH5CL_RE_MAX_NAME_COVER003.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHViPkMqNJQqH5CL_RE_MAX_NAME_COVER003.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHViQUMqNJQqH5CP_RE_MAX_APPROVAL_COVER004.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHViQUMqNJQqH5CP_RE_MAX_APPROVAL_COVER004.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHViRkMqNJQqH5CW_RE_MAX_ASTRO_COVER002.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHViRkMqNJQqH5CW_RE_MAX_ASTRO_COVER002.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHVmg0MqNJQqH5MA_AVIDX_CIRCUS_COVER001.png?auto=format%2Ccompress&rect=474%2C383%2C2635%2C1475&w=3584&h=2006&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHVmg0MqNJQqH5MA_AVIDX_CIRCUS_COVER001.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHZxGkMqNJQqH7Yu_AMAZON_SAME_DAY_COVER-A.png?auto=format%2Ccompress&rect=430%2C0%2C2717%2C1524&w=3576&h=2006&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHZxGkMqNJQqH7Yu_AMAZON_SAME_DAY_COVER-A.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aHZy3UMqNJQqH7Zy_NJL_GREENBALL_COVER_A.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHZy3UMqNJQqH7Zy_NJL_GREENBALL_COVER_A.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aID1_1GsbswqTLci_COX_SQUARE_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aID1_1GsbswqTLci_COX_SQUARE_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aID2AFGsbswqTLck_COX_PHONE_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aID2AFGsbswqTLck_COX_PHONE_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aID4ilGsbswqTLeo_PA_LOTTERY_VACUUM_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aID4ilGsbswqTLeo_PA_LOTTERY_VACUUM_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aID6YVGsbswqTLf5_ScreenShot2025-07-23at11.05.53AM.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aID6YVGsbswqTLf5_ScreenShot2025-07-23at11.05.53AM.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aIEIMFGsbswqTLo1_ScreenShot2025-07-23at12.04.09PM.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIEIMFGsbswqTLo1_ScreenShot2025-07-23at12.04.09PM.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aIEUWVGsbswqTLu4_ScreenShot2025-07-23at12.56.13PM.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIEUWVGsbswqTLu4_ScreenShot2025-07-23at12.56.13PM.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aIEUZVGsbswqTLu6_ScreenShot2025-07-23at12.55.52PM.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIEUZVGsbswqTLu6_ScreenShot2025-07-23at12.55.52PM.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aIEx71GsbswqTMA9_ScreenShot2025-07-23at2.55.03PM.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIEx71GsbswqTMA9_ScreenShot2025-07-23at2.55.03PM.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aIEzFlGsbswqTMDh_AUB_RISE%26SHINE_COVEr.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIEzFlGsbswqTMDh_AUB_RISE&SHINE_COVEr.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aIEzO1GsbswqTMDp_AUB_BUSINESS_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIEzO1GsbswqTMDp_AUB_BUSINESS_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aIFfmFGsbswqTMal_NATIONAL_ADVCIE_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIFfmFGsbswqTMal_NATIONAL_ADVCIE_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aIfM2FGsbswqTXdG_BOA.png?auto=format,compress
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIfM2FGsbswqTXdG_BOA.png
+Content Type: image/png
+
+Uri: https://images.prismic.io/stiff/aIfM4FGsbswqTXdI_PizzaHut.png?auto=format,compress
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIfM4FGsbswqTXdI_PizzaHut.png
+Content Type: image/png
+
+Uri: https://images.prismic.io/stiff/aIfM51GsbswqTXdJ_KFC.png?auto=format,compress
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIfM51GsbswqTXdJ_KFC.png
+Content Type: image/png
+
+Uri: https://images.prismic.io/stiff/aIfMzVGsbswqTXdF_Adcouncil.png?auto=format,compress
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIfMzVGsbswqTXdF_Adcouncil.png
+Content Type: image/png
+
+Uri: https://images.prismic.io/stiff/aIfOblGsbswqTXds_AvidX.png?auto=format,compress
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIfOblGsbswqTXds_AvidX.png
+Content Type: image/png
+
+Uri: https://images.prismic.io/stiff/aIfQhlGsbswqTXec_RT.png?auto=format,compress
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIfQhlGsbswqTXec_RT.png
+Content Type: image/png
+
+Uri: https://images.prismic.io/stiff/aIfS3lGsbswqTXfg_RugDR.png?auto=format,compress
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIfS3lGsbswqTXfg_RugDR.png
+Content Type: image/png
+
+Uri: https://images.prismic.io/stiff/aIfSL1GsbswqTXe0_Cox.png?auto=format,compress
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIfSL1GsbswqTXe0_Cox.png
+Content Type: image/png
+
+Uri: https://images.prismic.io/stiff/aIJQ01GsbswqTOWA_ScreenShot2025-07-24at11.23.38AM.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIJQ01GsbswqTOWA_ScreenShot2025-07-24at11.23.38AM.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aIjsw1GsbswqTbBu_DCL_SPICY_COVER.png?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIjsw1GsbswqTbBu_DCL_SPICY_COVER.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aIte5qTt2nPbZmli_FURMINATOR_SHED_COVER002.png?auto=format%2Ccompress&rect=324%2C0%2C1903%2C1066&w=3582&h=2006&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIte5qTt2nPbZmli_FURMINATOR_SHED_COVER002.png
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aIy8qqTt2nPbZpbp_5.jpg?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIy8qqTt2nPbZpbp_5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aJNrEKTt2nPbZ6JF_work-img-1-2x.jpg?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aJNrEKTt2nPbZ6JF_work-img-1-2x.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aL7IPWGNHVfTOw9X_aHZxGkMqNJQqH7Yu_AMAZON_SAME_DAY_COVER-A.jpg?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aL7IPWGNHVfTOw9X_aHZxGkMqNJQqH7Yu_AMAZON_SAME_DAY_COVER-A.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aL7ISGGNHVfTOw9l_aII_XlGsbswqTOIE_ADCOUNCIL_HERO_COVER001.jpg?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aL7ISGGNHVfTOw9l_aII_XlGsbswqTOIE_ADCOUNCIL_HERO_COVER001.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aL7IU2GNHVfTOw9x_aHaDdkMqNJQqH7jq_AVIDX_NIGHT_COVER001.jpg?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aL7IU2GNHVfTOw9x_aHaDdkMqNJQqH7jq_AVIDX_NIGHT_COVER001.jpg
+Content Type: image/jpeg
+
+Uri: https://images.prismic.io/stiff/aL7IX2GNHVfTOw9z_aG_G3UMqNJQqHwd6_NEWS-LBB.jpg?auto=format,compress&q=90&w=30
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aL7IX2GNHVfTOw9z_aG_G3UMqNJQqHwd6_NEWS-LBB.jpg
+Content Type: image/jpeg
+
+Uri: https://stiff.cdn.prismic.io/stiff/aGUxBHfc4bHWi9hJ_AVIDX_Nightmare1.mp4
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aGUxBHfc4bHWi9hJ_AVIDX_Nightmare1.mp4
+Content Type: video/mp4
+
+Uri: https://stiff.cdn.prismic.io/stiff/aGUxBnfc4bHWi9hL_REMAX_Approval_Ambient.mp4
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aGUxBnfc4bHWi9hL_REMAX_Approval_Ambient.mp4
+Content Type: video/mp4
+
+Uri: https://stiff.cdn.prismic.io/stiff/aHaKFEMqNJQqH7r5_FIREHOUSE_READY_AMBIENT.mp4
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaKFEMqNJQqH7r5_FIREHOUSE_READY_AMBIENT.mp4
+Content Type: video/mp4
+
+Uri: https://stiff.cdn.prismic.io/stiff/aHaNo0MqNJQqH71H_HELUVA_GOOD_SLEEPWALKING_AMBIENT_001.mp4
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHaNo0MqNJQqH71H_HELUVA_GOOD_SLEEPWALKING_AMBIENT_001.mp4
+Content Type: video/mp4
+
+Uri: https://stiff.cdn.prismic.io/stiff/aHbAN0MqNJQqH8Hm_COX_HARD-AT-WORK_30_AMBIENT_001.mp4
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHbAN0MqNJQqH8Hm_COX_HARD-AT-WORK_30_AMBIENT_001.mp4
+Content Type: video/mp4
+
+Uri: https://stiff.cdn.prismic.io/stiff/aHd6W0MqNJQqH9Ql_ENTERPRISE_CUPPICKED_AMBIENT.mov
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHd6W0MqNJQqH9Ql_ENTERPRISE_CUPPICKED_AMBIENT.mov
+Content Type: video/quicktime
+
+Uri: https://stiff.cdn.prismic.io/stiff/aHe4lUMqNJQqH-ND_RTP_PLANNER_AMBIENT.mov
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHe4lUMqNJQqH-ND_RTP_PLANNER_AMBIENT.mov
+Content Type: video/quicktime
+
+Uri: https://stiff.cdn.prismic.io/stiff/aHeB7EMqNJQqH9WE_TIXS_WANTME_AMBIENT.mp4
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHeB7EMqNJQqH9WE_TIXS_WANTME_AMBIENT.mp4
+Content Type: video/mp4
+
+Uri: https://stiff.cdn.prismic.io/stiff/aHVdF0MqNJQqH4z0_NJL_GREENBALL_PEAK_AMBIENT.mp4
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHVdF0MqNJQqH4z0_NJL_GREENBALL_PEAK_AMBIENT.mp4
+Content Type: video/mp4
+
+Uri: https://stiff.cdn.prismic.io/stiff/aHVmdUMqNJQqH5Lt_AVIDX_GOAT_AMBIENT.mp4
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aHVmdUMqNJQqH5Lt_AVIDX_GOAT_AMBIENT.mp4
+Content Type: video/mp4
+
+Uri: https://stiff.cdn.prismic.io/stiff/aIexmVGsbswqTXTx_HILTON_REVIEW-READER_Ambient_003.mp4
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIexmVGsbswqTXTx_HILTON_REVIEW-READER_Ambient_003.mp4
+Content Type: video/mp4
+
+Uri: https://stiff.cdn.prismic.io/stiff/aIEyhFGsbswqTMCc_AUB_UNWIND_AMBIENT.mp4
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIEyhFGsbswqTMCc_AUB_UNWIND_AMBIENT.mp4
+Content Type: video/mp4
+
+Uri: https://stiff.cdn.prismic.io/stiff/aIJUf1GsbswqTOZs_AMAZON_SAMEDAY_AMBEINT2.mp4
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aIJUf1GsbswqTOZs_AMAZON_SAMEDAY_AMBEINT2.mp4
+Content Type: video/mp4
+
+Uri: https://stiff.cdn.prismic.io/stiff/aItfX6Tt2nPbZml1_FURMINATOR_SHED_AMBIENT60.mp4
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aItfX6Tt2nPbZml1_FURMINATOR_SHED_AMBIENT60.mp4
+Content Type: video/mp4
+
+Uri: https://stiff.cdn.prismic.io/stiff/aKTJS6Tt2nPbae8g_EXPEDIA_VACTIONDAYS_AMBIENT_004.mp4
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aKTJS6Tt2nPbae8g_EXPEDIA_VACTIONDAYS_AMBIENT_004.mp4
+Content Type: video/mp4
+
+Uri: https://stiff.cdn.prismic.io/stiff/aMAhuWGNHVfTO1ZH_1.mp4
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aMAhuWGNHVfTO1ZH_1.mp4
+Content Type: video/mp4
+
+Uri: https://stiff.cdn.prismic.io/stiff/aMAk1mGNHVfTO1e3_8.mp4
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aMAk1mGNHVfTO1e3_8.mp4
+Content Type: video/mp4
+
+Uri: https://stiff.cdn.prismic.io/stiff/aMAk7GGNHVfTO1e5_6.mp4
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aMAk7GGNHVfTO1e5_6.mp4
+Content Type: video/mp4
+
+Uri: https://stiff.cdn.prismic.io/stiff/aMAlFGGNHVfTO1e7_12.mp4
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\stiff\aMAlFGGNHVfTO1e7_12.mp4
+Content Type: video/mp4
+
+Uri: https://stiff.madebybuzzworthy.com/
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\index.htm
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/&badge=0&autopause=0&player_id=0
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\&badge=0&autopause=0&player_id=0.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/about
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\about.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/capabilities
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\capabilities.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/contact
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\contact.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/css/fonts/fonts.css
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\css\fonts\fonts.css
+Content Type: text/css
+
+Uri: https://stiff.madebybuzzworthy.com/css/fonts/fonts.css);.grid-wrap,[class^=ws-xl]{margin-right:.7vw}
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\css\fonts\fonts.css);.grid-wrap,[class^=ws-xl]{margin-right.7vw}.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/css/fonts/GrandBold.woff
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\css\fonts\GrandBold.woff
+Content Type: font/woff
+
+Uri: https://stiff.madebybuzzworthy.com/css/fonts/GrandBold.woff2
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\css\fonts\GrandBold.woff2
+Content Type: font/woff2
+
+Uri: https://stiff.madebybuzzworthy.com/css/fonts/PPNeueMontreal-Bold.woff
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\css\fonts\PPNeueMontreal-Bold.woff
+Content Type: font/woff
+
+Uri: https://stiff.madebybuzzworthy.com/css/fonts/PPNeueMontreal-Bold.woff2
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\css\fonts\PPNeueMontreal-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://stiff.madebybuzzworthy.com/css/fonts/PPNeueMontreal-Italic.woff
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\css\fonts\PPNeueMontreal-Italic.woff
+Content Type: font/woff
+
+Uri: https://stiff.madebybuzzworthy.com/css/fonts/PPNeueMontreal-Italic.woff2
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\css\fonts\PPNeueMontreal-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://stiff.madebybuzzworthy.com/css/fonts/PPNeueMontreal-Regular.woff
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\css\fonts\PPNeueMontreal-Regular.woff
+Content Type: font/woff
+
+Uri: https://stiff.madebybuzzworthy.com/css/fonts/PPNeueMontreal-Regular.woff2
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\css\fonts\PPNeueMontreal-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://stiff.madebybuzzworthy.com/css/fonts/PPNeueMontreal-SemiBolditalic.woff
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\css\fonts\PPNeueMontreal-SemiBolditalic.woff
+Content Type: font/woff
+
+Uri: https://stiff.madebybuzzworthy.com/css/fonts/PPNeueMontreal-SemiBolditalic.woff2
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\css\fonts\PPNeueMontreal-SemiBolditalic.woff2
+Content Type: font/woff2
+
+Uri: https://stiff.madebybuzzworthy.com/css/normalize.css
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\css\normalize.css
+Content Type: text/css
+
+Uri: https://stiff.madebybuzzworthy.com/css/styles-custom.css
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\css\styles-custom.css
+Content Type: text/css
+
+Uri: https://stiff.madebybuzzworthy.com/css/styles.css
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\css\styles.css
+Content Type: text/css
+
+Uri: https://stiff.madebybuzzworthy.com/favicon.png
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\favicon.png
+Content Type: image/png
+
+Uri: https://stiff.madebybuzzworthy.com/img/arrow-right.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/button-bottom.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\button-bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/button-star-1.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\button-star-1.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/button-star-2.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\button-star-2.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/button-top.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\button-top.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/camera.png
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\camera.png
+Content Type: image/png
+
+Uri: https://stiff.madebybuzzworthy.com/img/capabilities/chop-1.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\capabilities\chop-1.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/capabilities/chop-2.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\capabilities\chop-2.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/car.png
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\car.png
+Content Type: image/png
+
+Uri: https://stiff.madebybuzzworthy.com/img/circle-contact-arrow.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\circle-contact-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/circle-contact.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\circle-contact.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/circle-text.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\circle-text.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/close-corner.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\close-corner.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/contact-arrow.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\contact-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/drag.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\drag.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/gold-brick.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\gold-brick.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/ico-facebook.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\ico-facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/ico-instagram.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\ico-instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/ico-linkedin.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\ico-linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/ico-play.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\ico-play.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/ico-spotify.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\ico-spotify.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/icon-close.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\icon-close.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/noise-min.png
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\noise-min.png
+Content Type: image/png
+
+Uri: https://stiff.madebybuzzworthy.com/img/teeth.png
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\teeth.png
+Content Type: image/png
+
+Uri: https://stiff.madebybuzzworthy.com/img/wings.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\wings.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/img/work/spin-text.svg
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\img\work\spin-text.svg
+Content Type: image/svg+xml
+
+Uri: https://stiff.madebybuzzworthy.com/js/CustomEase.min.js
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\js\CustomEase.min.js
+Content Type: application/javascript
+
+Uri: https://stiff.madebybuzzworthy.com/js/Draggable.min.js
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\js\Draggable.min.js
+Content Type: application/javascript
+
+Uri: https://stiff.madebybuzzworthy.com/js/fontfaceobserver.js
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\js\fontfaceobserver.js
+Content Type: application/javascript
+
+Uri: https://stiff.madebybuzzworthy.com/js/gsap.min.js
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\js\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://stiff.madebybuzzworthy.com/js/InertiaPlugin.min.js
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\js\InertiaPlugin.min.js
+Content Type: application/javascript
+
+Uri: https://stiff.madebybuzzworthy.com/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://stiff.madebybuzzworthy.com/js/lottie.min.js
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\js\lottie.min.js
+Content Type: application/javascript
+
+Uri: https://stiff.madebybuzzworthy.com/js/main-stiff.js
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\js\main-stiff.js
+Content Type: application/javascript
+
+Uri: https://stiff.madebybuzzworthy.com/js/ScrollSmoother.min.js
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\js\ScrollSmoother.min.js
+Content Type: application/javascript
+
+Uri: https://stiff.madebybuzzworthy.com/js/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\js\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://stiff.madebybuzzworthy.com/js/smoothstate.js
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\js\smoothstate.js
+Content Type: application/javascript
+
+Uri: https://stiff.madebybuzzworthy.com/js/SplitText.min.js
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\js\SplitText.min.js
+Content Type: application/javascript
+
+Uri: https://stiff.madebybuzzworthy.com/js/vars.js
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\js\vars.js
+Content Type: application/javascript
+
+Uri: https://stiff.madebybuzzworthy.com/news
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\news.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work/advice-you-need
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work\advice-you-need.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work/atlantic-union-bank
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work\atlantic-union-bank.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work/cox
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work\cox.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work/fair-tix
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work\fair-tix.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work/financial-planner
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work\financial-planner.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work/firehouse
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work\firehouse.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work/furminator
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work\furminator.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work/goat-rodeo
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work\goat-rodeo.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work/greenball
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work\greenball.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work/lions-den
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work\lions-den.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work/lottery
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work\lottery.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work/nightmare
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work\nightmare.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work/remax
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work\remax.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work/remote
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work\remote.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work/same-day
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work\same-day.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work/sleepwalking
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work\sleepwalking.html
+Content Type: text/html
+
+Uri: https://stiff.madebybuzzworthy.com/work/vacation-days
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\work\vacation-days.html
+Content Type: text/html
+
+Uri: https://www.google.com/recaptcha/api.js?render=6LeMP-MrAAAAAC98Z3AOU-kIoe-nwcVKS9efV_ca
+File Name: C:\Downloaded Web Sites\stiff.madebybuzzworthy.com\recaptcha\api.js
+Content Type: text/javascript
+
